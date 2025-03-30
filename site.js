@@ -29,7 +29,7 @@ var experienceList = [
         imageSrc: "images/Company/4-pwc.png"
     },
     {
-        company: "ICICI Prudential Mutual Fund"
+        company: "ICICI Prudential Mutual Fund",
         jobTitle: "Investor Education Officer",
         date: "July 2011 - May 2014",
         location: "Bhubaneswar, India",
