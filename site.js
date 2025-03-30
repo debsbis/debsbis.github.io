@@ -39,7 +39,7 @@ var experienceList = [
 ];
 
 // URL of the JSON file
-const url = 'https://raw.githubusercontent.com/kuldeepsingh-in/kuldeepsingh-in.github.io/main/badgeData.json';
+const url = 'https://raw.githubusercontent.com/debsbis/debsbis.github.io/main/badgeData.json';
 const statsURL = 'https://api.visitorbadge.io/api/status?path=https%3A%2F%2Fgithub.com%2Fkuldeepsingh-in%2Fkuldeepsingh-in'
 
 // Function to handle fallback image loading
