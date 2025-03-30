@@ -19,7 +19,7 @@ var experienceList = [
         jobTitle: "Examinations Operations Resources Officer",
         date: "Jan 2018 - Present",
         location: "London, UK",
-        imageSrc: "images/5-databricks.jpg"
+        imageSrc: "british-council-1-logo-png-transparent.png"
     },
     {
         company: "DSP Blackrock Mutual Fund",
