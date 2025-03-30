@@ -19,21 +19,21 @@ var experienceList = [
         jobTitle: "Examinations Operations Resources Officer",
         date: "Jan 2018 - Present",
         location: "London, UK",
-        imageSrc: "images/Company/5-databricks.jpg"
+        imageSrc: "images/5-databricks.jpg"
     },
     {
         company: "DSP Blackrock Mutual Fund",
         jobTitle: "Assistant Manager",
         date: "June 2014 - May 2017",
         location: "Bhubaneswar, India",
-        imageSrc: "images/Company/4-pwc.png"
+        imageSrc: "images/3-msft.png"
     },
     {
         company: "ICICI Prudential Mutual Fund",
         jobTitle: "Investor Education Officer",
         date: "July 2011 - May 2014",
         location: "Bhubaneswar, India",
-        imageSrc: "images/Company/3-msft.png"
+        imageSrc: "images/3-msft.png"
  
     }
 ];
