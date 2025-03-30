@@ -15,39 +15,26 @@ var skillsList = [
 
 var experienceList = [
      {
-        company: "Databricks",
-        jobTitle: "Solutions Architect",
-        date: "Dec 2023 - Present",
+        company: "British Council",
+        jobTitle: "Examinations Operations Resources Officer",
+        date: "Jan 2018 - Present",
         location: "London, UK",
         imageSrc: "images/Company/5-databricks.jpg"
     },
     {
-        company: "PwC UK",
-        jobTitle: "Cloud Solutions Architect / Manager",
-        date: "June 2022 - Nov 2023",
-        location: "London, UK",
+        company: "DSP Blackrock Mutual Fund",
+        jobTitle: "Assistant Manager",
+        date: "June 2014 - May 2017",
+        location: "Bhubaneswar, India",
         imageSrc: "images/Company/4-pwc.png"
     },
     {
-        company: "Microsoft",
-        jobTitle: "Cloud Solutions Architect - Engineering",
-        date: "July 2019 - May 2022",
-        location: "London, UK",
+        company: "ICICI Prudential Mutual Fund"
+        jobTitle: "Investor Education Officer",
+        date: "July 2011 - May 2014",
+        location: "Bhubaneswar, India",
         imageSrc: "images/Company/3-msft.png"
-    },
-    {
-        company: "Microsoft",
-        jobTitle: "Cloud Consultant",
-        date: "Jan 2016 - July 2019",
-        location: "Hyderabad, India",
-        imageSrc: "images/Company/3-msft.png"
-    },
-    {
-        company: "Aon Hewitt",
-        jobTitle: "Software Engineer",
-        date: "Aug 2015 - Jan 2016",
-        location: "Gurgoan, India",
-        imageSrc: "images/Company/2-aon.png"
+ 
     }
 ];
 
