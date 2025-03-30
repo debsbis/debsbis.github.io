@@ -3,29 +3,15 @@ var badgeObjects = "";
 var visitorCountJson = "";
 var skillsList = [
 
-    { text: "Enterprise Application Architecture" },
-    { text: "Cloud / Digital transformation" },
-    { text: "Data transformation and migration" },
-    { text: "Project Management" },
-    { text: "Solution Design" },
-    { text: "Agile / Scrum" },
-    { text: "Microsoft Azure Cloud" },
-    { text: "Sustainability Cloud" },
-    { text: "Azure Web/ Compute" },
-    { text: "Azure SQL" },
-    { text: "Cosmos DB" },
-    { text: "Azure Storage" },
-    { text: "Azure Data Factory" },
-    { text: "Azure Synapse" },
-    { text: "Azure Databrick" },
-    { text: "Data Warehouse" },
-    { text: "Eventing and Messaging" },
-    { text: "Application Monitoring" },
-    { text: "Azure Automation" },
-    { text: "Azure DevOps" },
-    { text: "Power Platform" },
-    { text: "Power BI / Power Apps" }
-];
+    { text: "Examinations Operations & Compliance" },
+    { text: "Recruitment & Training" },
+    { text: "Strategic Planning & Resource Management" },
+    { text: "Performance Evaluation & Risk Management" },
+    { text: "AI & Data Analytics (Power BI, SPSS, NVivo)" },
+    { text: "Digital Transformation & Process Optimization" },
+    { text: "Contingency & Crisis Management" },
+    { text: "Financial & Budget Management" },
+ ];
 
 var experienceList = [
      {
