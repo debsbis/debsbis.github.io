@@ -26,14 +26,14 @@ var experienceList = [
         jobTitle: "Assistant Manager",
         date: "June 2014 - May 2017",
         location: "Bhubaneswar, India",
-        imageSrc: "DSP pic.jpeg"
+        imageSrc:  "images/DSP pic.jpeg"
     },
     {
         company: "ICICI Prudential Mutual Fund",
         jobTitle: "Investor Education Officer",
         date: "July 2011 - May 2014",
         location: "Bhubaneswar, India",
-        imageSrc: "ICICI Pru pic.png"
+        imageSrc: "images/ICICI Pru pic.png"
  
     }
 ];
